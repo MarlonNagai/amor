@@ -82,7 +82,7 @@ section#img001{
 section#img002 {
     background-image: url(../img/EO7A7873.jpg);
     background-color: white;
-
+    background-position: center center;
 }
 
 div.fundo {
